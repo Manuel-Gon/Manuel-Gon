@@ -37,9 +37,9 @@
 
 ---
 
-## 👀 Contador de Visitas
+## 📅 Atividade Recente (Snake)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manuel-Gon&color=blue&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://github.com/Manuel-Gon/github-contribution-snake/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
