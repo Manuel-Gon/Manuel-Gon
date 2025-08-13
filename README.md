@@ -34,12 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Gon&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 📅 Atividade Recente
-<p align="center">
- <img src="https://github.com/Manuel-Gon/github-contribution-snake/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
