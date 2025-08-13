@@ -41,7 +41,7 @@
 
 ## 📅 Atividade Recente
 <p align="center">
-  <img src="https://github.com/Manuel-Gon/github-contribution-snake/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://github.com/Manuel-Gon/github-contribution-snake/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
