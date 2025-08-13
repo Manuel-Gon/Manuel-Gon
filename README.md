@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Manuel-Gon/Manuel-Gon/blob/output/dist/snake.svg" alt="Snake animation">
+ <img src="https://raw.githubusercontent.com/Manuel-Gon/Manuel-Gon/main/dist/snake.svg" alt="Snake animation">
 </div>
 
 ---
