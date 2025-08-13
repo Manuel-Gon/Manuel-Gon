@@ -23,11 +23,8 @@
 ---
 
 ## 📚 Aprendendo e Projetos em Andamento
-- Criando aplicações simples em **React**  
-- Experimentando **componentes e layouts com TailwindCSS**  
-- Desenvolvendo **sites estáticos com HTML, CSS e JavaScript**  
+- Experimentando **componentes e layouts com TailwindCSS**   
 - Explorando **boas práticas e organização de código**  
-- Próximo objetivo: iniciar **Node.js e banco de dados**
 
 ---
 
