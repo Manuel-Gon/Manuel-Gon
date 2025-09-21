@@ -19,7 +19,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Manuel-Gon
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg?palette=github-dark&background=black
 
       - name: Push Snake Animation
         uses: EndBug/add-and-commit@v9
