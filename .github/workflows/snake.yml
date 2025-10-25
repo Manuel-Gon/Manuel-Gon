@@ -1,12 +1,11 @@
 name: Generate Snake
-
 on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
-  workflow_dispatch: # permite rodar manualmente
-
+  push:
+    branches:
+      - main # Ou 'master'
+  # Removemos schedule e workflow_dispatch
 permissions:
-  contents: write # dá permissão para escrever no repositório
+  contents: write
 
 jobs:
   build:
@@ -14,14 +13,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Manuel-Gon
           outputs: |
             dist/snake.svg?palette=github-dark&background=black
-
+            
       - name: Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
